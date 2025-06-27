@@ -1,6 +1,6 @@
 ## HTML/CSS (June cohort)
 
-* Olanrewaju Mutyat [Github](https://github.com/Olanrewajumutiat52230) | [Live Page](https://Olanrewajumutiat52230.github.io/)
+* Timothy Okon Jnr [Github](https://github.com/Tiger0195)  | [Live Page](hhttps://tiger0195.github.io/project/) | [Linkedin](https://www.linkedin.com/in/tl-jxnior-okon-2b0b18371/)
   
 
 ## JavaScript (June cohort)
