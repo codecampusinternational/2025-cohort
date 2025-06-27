@@ -1,7 +1,7 @@
 ## HTML/CSS (May cohort)
 
 * Martins Bestman [Github](https://github.com/Olanrewajumutiat52230) | [Live Page](https://martinx500.github.io/Porfolio/)  | [Linkedin]( https://www.linkedin.com/in/martins-bestman-2712002b8/)
-* Abba Amad  [Github](https://github.com/Excel-developer) | [Live Page](https://abbagege01.github.io/bigproject/)  | [Linkedin]([https://martinx500.github.io/A-Calculator/](https://www.linkedin.com/in/abba-gege-373144364/)
+* Abba Amad  [Github](https://github.com/Excel-developer) | [Live Page](https://abbagege01.github.io/bigproject/)  | [Linkedin](https://www.linkedin.com/in/abba-gege-373144364/)
 
 ## JavaScript (January cohort)
 
