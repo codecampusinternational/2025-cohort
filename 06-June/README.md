@@ -1,12 +1,13 @@
-## HTML/CSS (February cohort)
+## HTML/CSS (June cohort)
 
 * Olanrewaju Mutyat [Github](https://github.com/Olanrewajumutiat52230) | [Live Page](https://Olanrewajumutiat52230.github.io/)
-* Excel Okorie [Github](https://github.com/Excel-developer) | [Live Page](https://excel-developer.github.io/my-portfolio/)
-* Ugwu Jonathan Chinecherem [Github](https://github.com/jonathan-chinecherem) | [Live Page](https://jonathan-chinecherem.github.io/my-portfolio/)
   
 
-## JavaScript (May cohort)
+## JavaScript (June cohort)
 
 * Martins Bestman [Github](https://github.com/MartinX500)  | [Live Page](https://martinx500.github.io/A-Calculator/) | [Linkedin](https://www.linkedin.com/in/martins-bestman-2712002b8/)
 * Abba Amad [Github](https://github.com/cj63s)  | [Live Page]( https://abbagege01.github.io/java-project/) | [Linkedin](https://www.linkedin.com/in/abba-gege-373144364/)
+* Dom Smith [Github](https://github.com/ifeanyi126)  | [Live Page](https://ifeanyi126.github.io/JAVASCRIPT-PROJECT/) | [Linkedin](https://www.linkedin.com/in/dominic-okoye-6355091a3/)
+* Hannah Ibrahim  [Github](https://github.com/Ann-design212)  | [Live Page](https://ann-design212.github.io/JavaScript-Project/) | [Linkedin](https://www.linkedin.com/in/oluwapelumi-ibrahim-6a5a4236b/)
+
   
