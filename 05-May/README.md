@@ -1,8 +1,7 @@
-## HTML/CSS (February cohort)
+## HTML/CSS (May cohort)
 
-* Martins Bestman [Github](https://github.com/Olanrewajumutiat52230) | [Live Page](https://Olanrewajumutiat52230.github.io/)
-* Excel Okorie [Github](https://github.com/Excel-developer) | [Live Page](https://excel-developer.github.io/my-portfolio/)
-* Ugwu Jonathan Chinecherem [Github](https://github.com/jonathan-chinecherem) | [Live Page](https://jonathan-chinecherem.github.io/my-portfolio/)
+* Martins Bestman [Github](https://github.com/Olanrewajumutiat52230) | [Live Page](https://martinx500.github.io/Porfolio/)
+* Abba Amad  [Github](https://github.com/Excel-developer) | [Live Page](https://abbagege01.github.io/bigproject/)
 
 ## JavaScript (January cohort)
 
