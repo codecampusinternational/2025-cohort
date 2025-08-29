@@ -1,9 +1,9 @@
 ## HTML/CSS (August cohort)
 
-* Pheelangwah Michael[Github](https://github.com/Michaelpheels) | [live page](https://michaelpheels.github.io/project/ ) | [Linkedin](https://www.linkedin.com/in/pheelangwah-michael)
-* kamsy iloh[Github](https://github.com/kamsyemeka8-lang) | [Live Page](https://kamsyemeka8-lang.github.io/Project/) | [LinkedIn](https://www.linkedin.com/in/kamsy-iloh)
-* David Onyishi  [Github](https://github.com/DavidO-111010) | [Live Page])(https://davido-111010.github.io/Final-Project/) | [Linked In](https://www.linkedin.com/in/david-onyishi)
-* Ogbudo Merciful [Github](https://github.com/ogbudomerciful-afk) | [Live Page](https://ogbudomerciful-afk.github.io/final-project-1/) | [LinkedIn] (https://www.linkedin.com/in/merciful-ogbudo)
+* Pheelangwah Michael [Github](https://github.com/Michaelpheels) | [live page](https://michaelpheels.github.io/project/ ) | [Linkedin](https://www.linkedin.com/in/pheelangwah-michael-3434b7381/)
+* Kamsy Iloh [Github](https://github.com/kamsyemeka8-lang) | [Live Page](https://kamsyemeka8-lang.github.io/Project/) [Linkedin](https://www.linkedin.com/in/kamsy-iloh)
+* David Onyishi  [Github](https://github.com/DavidO-111010) | [Live Page](https://davido-111010.github.io/Final-Project/) [Linkedin](https://www.linkedin.com/in/david-onyishi-485b40379/)
+* Ogbudo Merciful [Github](https://github.com/ogbudomerciful-afk) | [Live Page](https://ogbudomerciful-afk.github.io/final-project-1/) | [Linkedin] (https://www.linkedin.com/in/merciful-ogbudo)
 
 ## Javascript (August cohort)
 
