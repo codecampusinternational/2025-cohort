@@ -5,3 +5,8 @@
 * Evans Michael [Github](https://github.com/evans202288-ctrl/second-project) | [live page](https://evans202288-ctrl.github.io/second-project/ ) | [Linkedin](www.linkedin.com/in/michael-evans-9a920a384  )
 * Samuel Yandev [Github](https://github.com/SKY-MORALES7) | [live page](
 https://sky-morales7.github.io/my-work/) | [Linkedin](https://www.linkedin.com/in/samuel-yandev-90553038b/)
+
+
+## ReactJS/NEXTJS
+
+* Ogbudo Merciful[Github](https://github.com/ogbudomerciful-afk) | [live page](https://portfolio-gilt-phi-28.vercel.app/) | [Linkedin](www.linkedin.com/in/merciful-ogbudo)
