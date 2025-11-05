@@ -9,4 +9,4 @@ https://sky-morales7.github.io/my-work/) | [Linkedin](https://www.linkedin.com/i
 
 ## ReactJS/NEXTJS
 
-* Ogbudo Merciful[Github](https://github.com/ogbudomerciful-afk) | [live page](https://portfolio-gilt-phi-28.vercel.app/) | [Linkedin](www.linkedin.com/in/merciful-ogbudo)
+* Ogbudo Merciful [Github](https://github.com/ogbudomerciful-afk) | [live page](https://portfolio-gilt-phi-28.vercel.app/) | [Linkedin](www.linkedin.com/in/merciful-ogbudo)
