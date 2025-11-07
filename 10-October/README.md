@@ -5,6 +5,8 @@
 * Evans Michael [Github](https://github.com/evans202288-ctrl/second-project) | [live page](https://evans202288-ctrl.github.io/second-project/ ) | [Linkedin](https://www.linkedin.com/in/michael-evans-9a920a384  )
 * Samuel Yandev [Github](https://github.com/SKY-MORALES7) | [live page](
 https://sky-morales7.github.io/my-work/) | [Linkedin](https://www.linkedin.com/in/samuel-yandev-90553038b/)
+* Lekan Alabi [Github](https://github.com/mralabi) | [live page](https://mralabi.github.io/Portfolio-Project-Folder/) | [Linkedin] (https://www.linkedin.com/in/lekan-alabi/)
+* Olaniyan Semilore[Github](https://github.com/olaniyansemilore70) | [live page](https://olaniyansemilore70.github.io/Project-portifolio/) | [Linkedin](https://www.linkedin.com/in/semilore-olaniyan-7956b038b/)
 
 
 ## ReactJS/NEXTJS
