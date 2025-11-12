@@ -13,5 +13,5 @@ https://sky-morales7.github.io/my-work/) | [Linkedin](https://www.linkedin.com/i
 
 * Ogbudo Merciful [Github](https://github.com/ogbudomerciful-afk) | [live page](https://portfolio-gilt-phi-28.vercel.app/) | [Linkedin](https://www.linkedin.com/in/merciful-ogbudo)
 * Ebube Nwakeze [Github](https://github.com/ebubernwakeze-jpg) | [live page](https://ebubernwakeze-jpg.github.io/my-portfolio/) | [Linkedin](https://www.linkedin.com/in/ebube-nwakeze-80375b37a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-* Nathan Saaku [Github] (https://github.com/nathansaaku-creator) [Live page] (https://github.com-nathansaaku-creator-project)
+* Nathan Saaku [Github](https://github.com/nathansaaku-creator) | [Live page](https://github.com-nathansaaku-creator-project)
 
